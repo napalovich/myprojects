@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cars>
+  <brand Brand="Toyota">
+    <car color="чорний" price="42000" volume="3,5" year="2020" model="Camry" />
+  </brand>
+  <brand Brand="Toyota">
+    <car color="білий" price="5200" volume="2,5" year="2002" model="Altezza" />
+  </brand>
+</cars>

@@ -1,0 +1,9 @@
+C:\Users\ivnik\source\repos\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\ivnik\source\repos\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\ivnik\source\repos\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\ivnik\source\repos\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\ivnik\source\repos\lab2\lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\ivnik\source\repos\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\ivnik\source\repos\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\ivnik\source\repos\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\ivnik\source\repos\lab2\lab2\obj\Debug\lab2.pdb
