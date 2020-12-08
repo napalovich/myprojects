@@ -1,0 +1,9 @@
+C:\Users\ivnik\source\repos\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\ivnik\source\repos\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\ivnik\source\repos\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\ivnik\source\repos\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\ivnik\source\repos\lab1\lab1\obj\Debug\Labaratorna1_ANTLRFree.Form1.resources
+C:\Users\ivnik\source\repos\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\ivnik\source\repos\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\ivnik\source\repos\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\ivnik\source\repos\lab1\lab1\obj\Debug\lab1.pdb
